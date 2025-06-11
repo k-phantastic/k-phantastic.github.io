@@ -13,7 +13,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Khanh Phan"
 description              : &description " "
-url                      : https://k-phantastic.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://khanhphan.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "k-phantastic/k-phantastic.github.io"
 
@@ -23,13 +23,13 @@ repository               : "k-phantastic/k-phantastic.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Khanh Phan"
+  pronouns         : "he/him"
+  bio              : "M.S. Data Science UCSD '26"
+  location         : "San Francisco, CA"
+  employer         : "Student at UC San Diego"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "khp023@ucsd.edu" 
 
   # Academic websites
   academia         : # URL
