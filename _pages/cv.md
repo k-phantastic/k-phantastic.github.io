@@ -8,8 +8,25 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div style="text-align: center;">
+  <a href="/files/KhanhPhan_Resume.pdf" download style="
+    background-color:rgb(150, 150, 150);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  ">
+    Download My Resume/CV
+  </a>
+</div>
+<br>
+<embed src="/files/KhanhPhan_Resume.pdf" width="750" height="970" 
+ type="application/pdf">
 
-Education
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +78,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
