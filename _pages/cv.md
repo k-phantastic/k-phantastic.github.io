@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: center;">
   <a href="/files/KhanhPhan_Resume.pdf" download style="
     background-color:rgb(150, 150, 150);
-    color: black;
+    color: white;
     padding: 10px 20px;
     border-radius: 8px;
     text-decoration: none;
