@@ -1,6 +1,6 @@
 ---
 title: "Restaurant Classification"
-excerpt: "NLP approach to classifying restaurants using Scikit-learn's TF-IDF and ensemble learning<br/><img src='/images/restaurant_classification.png'>"
+excerpt: "NLP approach to classifying restaurants using Scikit-learn's TF-IDF and ensemble learning<br/><img src='/images/restaurant_classification.png' width='500' height='300'>"
 collection: portfolio
 ---
 
