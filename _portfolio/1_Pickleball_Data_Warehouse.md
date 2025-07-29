@@ -1,6 +1,6 @@
 ---
-title: "Pickleball Datawarehouse"
-excerpt: "Data engineering and visualization showcase featuring medallion architecture approach for ETL and Tableau<br/><img src='/images/pickleball_data_warehouse.png' width='500' height='300'>"
+title: "Pickleball Data Warehouse/Visualization Showcase"
+excerpt: "My current work in progress project! Data engineering and visualization showcase featuring medallion architecture approach for ETL and Tableau<br/><img src='/images/pickleball_data_warehouse.png' width='500' height='300'>"
 collection: portfolio
 ---
 
