@@ -13,4 +13,6 @@ I’m a recent M.S. Data Science graduate from UCSD, building on a strong founda
 
 I am fully committed to applying my skills across industries, combining my scientific approach with data-driven strategies to tackle real-world problems. As such, I am eager to leverage my interest and attention to detail in data-focused roles. This website is an open invitation to view my experiences and portfolio as I continue to practice and improve as a data scientist. 
 
-I've recently gained an interest in machine learning techniques with regard to image vision techniques, check out my [GitHub](https://github.com/k-phantastic) for new projects!
+I've recently gained an interest in machine learning techniques with regard to image vision techniques, check out my [GitHub](https://github.com/k-phantastic) for latest projects!
+
+March 2026 Note: With my bandwidth freed up following graduation, expect this website to be under construction often! Apologies in advance if things are not up to date.
